@@ -17,8 +17,7 @@ Before running the application, ensure that your system meets the following requ
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/thecoder-9/real-time_eventTicketingSystem_oop2nd_year_project95044.git
-
+   git clone https://github.com/thecoder-9/realtime-eventTicketing-CLI-OOP_689904.git
 2. **Open the project in you preferred IDE**
    
 4. **Run the application**
